@@ -61,5 +61,3 @@ The following preprocessing steps were applied:
 Data cleaning is a critical step in data analysis because raw datasets often contain inconsistencies, missing values, and formatting issues that can affect the quality of insights and models. :contentReference[oaicite:2]{index=2}
 
 ---
-
-# Project Structure
